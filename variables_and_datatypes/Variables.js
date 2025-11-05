@@ -38,8 +38,8 @@ console.log(name_);
 // let name_ = "Krishna"; - Cannot redeclare block-scoped variable
 
 {
-let myName = "Sathyam Sundaram"
-console.log(myName);
+    let myName = "Sathyam Sundaram"
+    console.log(myName);
 }
 // console.log(myName); - let variable we can not access out of the scope block.
 
