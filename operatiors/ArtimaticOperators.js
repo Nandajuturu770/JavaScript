@@ -65,5 +65,3 @@ console.log(`with out decrement : ${y}`);
 console.log(`with pre-decrement --y :: ${--y}`);
 console.log(`while post-decrement y-- :: ${y--}`);
 console.log(`after post-decrement y :: ${y}`);
-
-
